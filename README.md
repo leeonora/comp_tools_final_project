@@ -19,6 +19,10 @@ The `results/` directory stores the output of the sentiment analysis, including:
 - `city_sentiments.csv`: Sentiment scores specific to cities.
 - `sentiment_scores_custom.csv`: Custom sentiment scores.
 
+## Plots
+
+Throughout the explainer notebook, a number of plots are shown. These are the plots used in the report. 
+
 ## Exploration
 
 The `explainer_notebook.ipynb` Jupyter notebook provides a detailed explanation of the analysis methodology, data processing steps, and visualization of the results.
