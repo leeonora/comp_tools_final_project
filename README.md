@@ -1,6 +1,6 @@
 # Project Overview
 
-This project performs sentiment analysis related to cities and airports. It processes data from various sources, including city information and airport data, to generate sentiment scores and insights.
+This project performs analysis related to cities and airports. It processes data from various sources, including city information and airport data, to generate sentiment scores and insights.
 
 ## Data
 
